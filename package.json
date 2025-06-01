@@ -1,7 +1,7 @@
 {
-  "name": "11ty-starter",
+  "name": "DPRN",
   "version": "1.0.0",
-  "description": "An 11ty starter website",
+  "description": "Extreme music blog",
   "main": ".eleventy.js",
   "scripts": {
     "start": "npm run clean && clear && ELEVENTY_ENV=development npx eleventy --serve",
@@ -10,6 +10,8 @@
     "clean": "rm -rf build"
   },
   "keywords": [
+    "grind",
+    "diypunk",
     "11ty",
     "website",
     "starter",
